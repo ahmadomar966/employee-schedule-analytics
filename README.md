@@ -167,6 +167,6 @@ The source file `schedule_data_sql_import.csv` contains 20,460 rows with the fol
 
 ## Author
 
-Sami — Mechanical Engineer | Data Analyst | 8+ years in internet marketing & content operations
+Ahmad Omar — Mechanical Engineer | Data Analyst | 8+ years in internet marketing & content operations
 
 Built as a portfolio project demonstrating the ability to analyze the same dataset across multiple industry-standard tools.
